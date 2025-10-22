@@ -38,7 +38,7 @@ Aplicativo mobile para gerenciamento hierárquico de plano de contas, desenvolvi
 git clone <url-do-repositorio>
 
 # Entre na pasta
-cd accounts-plan-app
+cd u-accounts
 
 # Instale as dependências
 npm install
